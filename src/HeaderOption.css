@@ -19,5 +19,6 @@
 .headerOption_icon {
   object-fit: contain;
   height: 30px !important;
-  width: 30px;
+  width: 30px !important;
+  border-radius: 50%;
 }
