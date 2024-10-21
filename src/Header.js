@@ -13,8 +13,8 @@ function Header() {
     <div className="header">
       <div className="header_left">
         <img
-          src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/linkedin-logo-3.png"
-          alt=""
+          src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"
+          alt="LinkedIn Logo"
         />
         <div className="header_search">
           <SearchIcon />
