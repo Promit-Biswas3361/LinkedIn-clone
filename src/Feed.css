@@ -1,6 +1,6 @@
 .feed {
   flex: 0.6;
-  margin: 0 20px;
+  margin: 0px 20px;
 }
 
 .feed_inputContainer {
@@ -34,10 +34,10 @@
 }
 
 .feed_input > form > button {
-    display: none;
+  display: none;
 }
 
 .feed_inputOptions {
-    display: flex;
-    justify-content: space-evenly;
+  display: flex;
+  justify-content: space-evenly;
 }
